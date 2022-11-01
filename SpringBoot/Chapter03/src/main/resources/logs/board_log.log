@@ -1,0 +1,75 @@
+2022:10:28 12:15:09.811 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application on DESKTOP-K2BL69U with PID 721476 (C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03\target\classes started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:15:09.839 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:15:09.841 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to default profiles: default 
+2022:10:28 12:15:18.131 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 9.262 seconds (JVM running for 10.954) 
+2022:10:28 12:15:18.132 TRACE --- [restartedMain] com.rubypaper.LoggingRunner : TRACE ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:15:18.133 DEBUG --- [restartedMain] com.rubypaper.LoggingRunner : DEBUG ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:15:18.133 INFO  --- [restartedMain] com.rubypaper.LoggingRunner : INFO ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:15:18.133 WARN  --- [restartedMain] com.rubypaper.LoggingRunner : WARN ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:15:18.134 ERROR --- [restartedMain] com.rubypaper.LoggingRunner : ERROR ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:21:43.538 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application on DESKTOP-K2BL69U with PID 717836 (C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03\target\classes started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:21:43.697 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:21:43.698 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to default profiles: default 
+2022:10:28 12:21:57.227 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 18.107 seconds (JVM running for 22.493) 
+2022:10:28 12:21:57.229 TRACE --- [restartedMain] com.rubypaper.LoggingRunner : TRACE ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:21:57.229 DEBUG --- [restartedMain] com.rubypaper.LoggingRunner : DEBUG ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:21:57.229 INFO  --- [restartedMain] com.rubypaper.LoggingRunner : INFO ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:21:57.230 WARN  --- [restartedMain] com.rubypaper.LoggingRunner : WARN ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:21:57.230 ERROR --- [restartedMain] com.rubypaper.LoggingRunner : ERROR ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:22:16.037 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application on DESKTOP-K2BL69U with PID 712928 (C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03\target\classes started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:22:16.045 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:22:16.046 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to default profiles: default 
+2022:10:28 12:25:33.426 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application on DESKTOP-K2BL69U with PID 717836 (C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03\target\classes started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:25:33.427 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:25:33.428 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to default profiles: default 
+2022:10:28 12:25:36.302 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 3.097 seconds (JVM running for 241.567) 
+2022:10:28 12:25:36.306 TRACE --- [restartedMain] com.rubypaper.LoggingRunner : TRACE ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:25:36.308 DEBUG --- [restartedMain] com.rubypaper.LoggingRunner : DEBUG ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:25:36.308 INFO  --- [restartedMain] com.rubypaper.LoggingRunner : INFO ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:25:36.308 WARN  --- [restartedMain] com.rubypaper.LoggingRunner : WARN ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:25:36.309 ERROR --- [restartedMain] com.rubypaper.LoggingRunner : ERROR ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:26:08.497 INFO  --- [main] com.rubypaper.BoardControllerTest : Starting BoardControllerTest on DESKTOP-K2BL69U with PID 9192 (started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:26:08.505 DEBUG --- [main] com.rubypaper.BoardControllerTest : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:26:08.506 INFO  --- [main] com.rubypaper.BoardControllerTest : No active profile set, falling back to default profiles: default 
+2022:10:28 12:26:28.096 INFO  --- [main] com.rubypaper.BoardControllerTest : Started BoardControllerTest in 22.852 seconds (JVM running for 28.106) 
+2022:10:28 12:26:28.097 TRACE --- [main] com.rubypaper.LoggingRunner : TRACE ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:28.098 DEBUG --- [main] com.rubypaper.LoggingRunner : DEBUG ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:28.099 INFO  --- [main] com.rubypaper.LoggingRunner : INFO ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:28.099 WARN  --- [main] com.rubypaper.LoggingRunner : WARN ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:28.099 ERROR --- [main] com.rubypaper.LoggingRunner : ERROR ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:29.090 INFO  --- [main] c.r.Chapter03ApplicationTests : Starting Chapter03ApplicationTests on DESKTOP-K2BL69U with PID 9192 (started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:26:29.090 DEBUG --- [main] c.r.Chapter03ApplicationTests : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:26:29.091 INFO  --- [main] c.r.Chapter03ApplicationTests : No active profile set, falling back to default profiles: default 
+2022:10:28 12:26:31.790 INFO  --- [main] c.r.Chapter03ApplicationTests : Started Chapter03ApplicationTests in 3.012 seconds (JVM running for 31.8) 
+2022:10:28 12:26:31.791 TRACE --- [main] com.rubypaper.LoggingRunner : TRACE ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:31.791 DEBUG --- [main] com.rubypaper.LoggingRunner : DEBUG ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:31.792 INFO  --- [main] com.rubypaper.LoggingRunner : INFO ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:31.793 WARN  --- [main] com.rubypaper.LoggingRunner : WARN ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:31.793 ERROR --- [main] com.rubypaper.LoggingRunner : ERROR ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:32.121 INFO  --- [main] com.rubypaper.PropertiesTest : Starting PropertiesTest on DESKTOP-K2BL69U with PID 9192 (started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:26:32.121 DEBUG --- [main] com.rubypaper.PropertiesTest : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:26:32.122 INFO  --- [main] com.rubypaper.PropertiesTest : No active profile set, falling back to default profiles: default 
+2022:10:28 12:26:34.861 INFO  --- [main] com.rubypaper.PropertiesTest : Started PropertiesTest in 3.02 seconds (JVM running for 34.872) 
+2022:10:28 12:26:34.862 TRACE --- [main] com.rubypaper.LoggingRunner : TRACE ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:34.864 DEBUG --- [main] com.rubypaper.LoggingRunner : DEBUG ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:34.864 INFO  --- [main] com.rubypaper.LoggingRunner : INFO ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:34.865 WARN  --- [main] com.rubypaper.LoggingRunner : WARN ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:26:34.866 ERROR --- [main] com.rubypaper.LoggingRunner : ERROR ·Î±× ¸Þ½ÃÁö 
+2022:10:28 12:27:27.238 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application on DESKTOP-K2BL69U with PID 717836 (C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03\target\classes started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:27:27.241 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:27:27.242 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to default profiles: default 
+2022:10:28 12:27:30.270 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 3.252 seconds (JVM running for 355.535) 
+2022:10:28 12:27:30.271 TRACE --- [restartedMain] com.rubypaper.LoggingRunner : TRACE ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:27:30.272 DEBUG --- [restartedMain] com.rubypaper.LoggingRunner : DEBUG ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:27:30.272 INFO  --- [restartedMain] com.rubypaper.LoggingRunner : INFO ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:27:30.273 WARN  --- [restartedMain] com.rubypaper.LoggingRunner : WARN ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:27:30.273 ERROR --- [restartedMain] com.rubypaper.LoggingRunner : ERROR ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:40:04.154 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Starting Chapter03Application on DESKTOP-K2BL69U with PID 717836 (C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03\target\classes started by SimJongYeon in C:\workspace-eclipse_2022-06_PrepareForClass\Chapter03) 
+2022:10:28 12:40:04.156 DEBUG --- [restartedMain] com.rubypaper.Chapter03Application : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE 
+2022:10:28 12:40:04.157 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : No active profile set, falling back to default profiles: default 
+2022:10:28 12:40:07.352 INFO  --- [restartedMain] com.rubypaper.Chapter03Application : Started Chapter03Application in 3.69 seconds (JVM running for 1112.618) 
+2022:10:28 12:40:07.354 TRACE --- [restartedMain] com.rubypaper.LoggingRunner : TRACE ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:40:07.354 DEBUG --- [restartedMain] com.rubypaper.LoggingRunner : DEBUG ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:40:07.354 INFO  --- [restartedMain] com.rubypaper.LoggingRunner : INFO ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:40:07.355 WARN  --- [restartedMain] com.rubypaper.LoggingRunner : WARN ë¡œê·¸ ë©”ì‹œì§€ 
+2022:10:28 12:40:07.355 ERROR --- [restartedMain] com.rubypaper.LoggingRunner : ERROR ë¡œê·¸ ë©”ì‹œì§€ 
