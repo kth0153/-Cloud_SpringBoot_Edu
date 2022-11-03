@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 import com.rubypaper.controller.BoardController;
 //BoardServiceImpl.class
 @RunWith(SpringRunner.class)
-@SpringBootTest( properties = {"author.name=Gurum","author.age=20","author.nation=korea"} )
+@SpringBootTest(properties = {"author.name=Gurum","author.age=20","author.nation=korea"})
 //@SpringBootTest(classes = {BoardController.class}, properties = {"author.name=Gurum","author.age=20","author.nation=korea"})
 public class PropertiesTest {
 	
